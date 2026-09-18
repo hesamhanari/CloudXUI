@@ -85,7 +85,7 @@ You only need the single `install.sh` script:
 
 ```bash
 # Download install.sh
-curl -fsSL -O https://raw.githubusercontent.com/<username>/CloudXUI/main/install.sh
+curl -fsSL -O https://raw.githubusercontent.com/hesamhanari/CloudXUI/main/install.sh
 
 # Run the interactive menu (as root)
 bash install.sh
