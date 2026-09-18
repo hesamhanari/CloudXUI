@@ -1,0 +1,21 @@
+# Rendered configurations & dry runs
+rendered-configs/
+*.log
+
+# Temporary and backup files
+*.bak*
+*.tmp
+*~
+
+# Certificate files & keys
+*.pem
+*.key
+*.csr
+*.crt
+origin-ca.json
+
+# System & editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
