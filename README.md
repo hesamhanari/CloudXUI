@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="CloudXUI Banner" width="100%">
+</p>
+
 # CloudXUI — Automated Nginx & 3x-UI Front-End Suite
 
 **Made By HesamTheDr with Power Of AI**
